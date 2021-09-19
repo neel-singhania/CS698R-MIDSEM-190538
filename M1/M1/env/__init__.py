@@ -1,0 +1,1 @@
+from M1.env.random_maze import randomMaze
